@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0;url=https://s.shopee.co.id/9zxXW6gtUP">
+    <title>Mengarahkan ke Shopee...</title>
+</head>
+<body>
+    <p>Sedang mengalihkan, mohon tunggu...</p>
+    <script>
+        window.location.href = "https://s.shopee.co.id/9zxXW6gtUP";
+    </script>
+</body>
+</html>
+
